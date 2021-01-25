@@ -1,4 +1,4 @@
-module github.com/Thatooine/go-test-html-report
+module github.com/andile-innovation/go-test-html-report
 
 go 1.14
 

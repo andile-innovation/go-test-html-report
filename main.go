@@ -5,7 +5,7 @@ import (
 	"bytes"
 	"encoding/json"
 	"fmt"
-	"github.com/Thatooine/go-test-html-report/assets"
+	"github.com/andile-innovation/go-test-html-report/assets"
 	"github.com/spf13/cobra"
 	"html/template"
 	"io/ioutil"

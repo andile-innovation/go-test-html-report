@@ -2,7 +2,7 @@
 `go-test-html-report` generates a prettified html report of go-test logs.
 ## Installation 
 ```shell 
-$ go get -u github.com/Thatooine/go-test-html-report
+$ go get -u github.com/andile-innovation/go-test-html-report
 ```
 ## Usage
 To use `go-test-html-report` with a go test log file use
